@@ -1,15 +1,21 @@
 [
     {
+      "slug": "commercejs-nextjs-demo-store",
+      "githubSlug": "chec/commercejs-nextjs-demo-store",
+      "name": "Demo store with Commerce.js and Next.js",
+      "description": "A fully-fledged demo store using Commerce.js and Next.js"
+    },
+    {
       "slug": "react-shoe-store",
       "githubSlug": "chec/example.checkout.v2",
-      "name": "Shoe store",
+      "name": "Shoe store (React.js)",
       "description": "An example shoe store showcasing product variants and hosted checkout in React.js",
       "branch": "react.js"
     },
     {
       "slug": "vue-shoe-store",
       "githubSlug": "chec/example.checkout.v2",
-      "name": "Shoe store",
+      "name": "Shoe store (Vue.js)",
       "description": "An example shoe store showcasing product variants and hosted checkout in Vue.js",
       "branch": "vue.js"
     },
@@ -19,4 +25,4 @@
       "name": "Store boilerplate",
       "description": "An example store boilerplate with a minimal design"
     }
-  ]
+]
