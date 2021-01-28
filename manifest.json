@@ -1,5 +1,11 @@
 [
     {
+      "slug": "commercejs-chopchop-demo",
+      "githubSlug": "chec/commercejs-chopchop-demo",
+      "name": "Chop Chop demo store (Next.js)",
+      "description": "A beautifully designed, elegantly developed commerce demo with cart and checkout using Next.js"
+    },
+    {
       "slug": "commercejs-nextjs-demo-store",
       "githubSlug": "chec/commercejs-nextjs-demo-store",
       "name": "Demo store with Commerce.js and Next.js",
